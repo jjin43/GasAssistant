@@ -4,9 +4,9 @@
 
 ## Calculates and logs business gas expense entries for tax return purposes
 
-Dependencies: 
+Dependencies:\n\t\t 
     jdatepicker
 
-Contributors: 
-    Justin Jin
+Contributors:\n\t\t
+    Justin Jin\n\t\t
     Ryan Woo
