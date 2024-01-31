@@ -1,7 +1,12 @@
 # GasAssistant
 
-# Java Desktop Application - with GUI
+## Java Desktop Application - with GUI
 
-# Calculates and logs business gas expense entries for tax return purposes
+## Calculates and logs business gas expense entries for tax return purposes
 
-Dependencies: jdatepicker
+Dependencies: 
+    jdatepicker
+
+Contributors: 
+    Justin Jin
+    Ryan Woo
